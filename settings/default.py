@@ -1,0 +1,5 @@
+UNSET_VAL = "unset"
+LOCAL_DIR_IN = "/home/justorius/issmig-assets/in"
+LOCAL_DIR_OUT = "/home/justorius/issmig-assets/out"
+REMOTE_DIR_IN = "/home/myskin/issmig-assets/in"
+REMOTE_DIR_OUT = "/home/myskin/issmig-assets/out"
